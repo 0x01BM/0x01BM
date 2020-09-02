@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm Benjamin Marr 🥔 I am penetration tester based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 and I mainly focus on web app, mobile and infrastructure testing. My repositories will motly relate to one of these.
+I'm Benjamin Marr 🥔 I am penetration tester based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 and I mainly focus on web app, mobile and infrastructure testing. My repositories will mostly relate to one of these.
 
 - 🔭 I’m currently working on Offensive Security's OSWE
 - 🌱 I’m currently learning active directory testing and deeper web app attacks
